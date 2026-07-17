@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/freeshift-maker/gitgridea.github.io.git</id>
+    <title>Gridea</title>
+    <updated>2026-07-17T19:56:29.054Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/freeshift-maker/gitgridea.github.io.git"/>
+    <link rel="self" href="https://github.com/freeshift-maker/gitgridea.github.io.git/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://github.com/freeshift-maker/gitgridea.github.io.git/images/avatar.png</logo>
+    <icon>https://github.com/freeshift-maker/gitgridea.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2026, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[今天完成了远程连接]]></title>
+        <id>https://github.com/freeshift-maker/gitgridea.github.io.git/post/jin-tian-wan-cheng-liao-yuan-cheng-lian-jie/</id>
+        <link href="https://github.com/freeshift-maker/gitgridea.github.io.git/post/jin-tian-wan-cheng-liao-yuan-cheng-lian-jie/">
+        </link>
+        <updated>2026-07-17T19:52:38.000Z</updated>
+        <content type="html"><![CDATA[<p>今天测试了一下在腾讯云服务器安装RustDesk服务器软件，非常简单。按照步骤进行linux安装后，直接可用。目前使用的是第二种模式，自建服务器。提供了IP地址和API Key。连接比较成功，就是速度比较慢，需要继续研究如何开启P2P直接连接通道。<br>
+😀<img src="https://github.com/freeshift-maker/gitgridea.github.io.git/post-images/1784318114883.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读《云计算和大数据时代网络技术揭秘》]]></title>
+        <id>https://github.com/freeshift-maker/gitgridea.github.io.git/post/yue-du-lesslessyun-ji-suan-he-da-shu-ju-shi-dai-wang-luo-ji-zhu-jie-mi-greatergreater/</id>
+        <link href="https://github.com/freeshift-maker/gitgridea.github.io.git/post/yue-du-lesslessyun-ji-suan-he-da-shu-ju-shi-dai-wang-luo-ji-zhu-jie-mi-greatergreater/">
+        </link>
+        <updated>2026-05-11T20:07:09.000Z</updated>
+        <content type="html"><![CDATA[<p>2026-5-12<br>
+看过了一遍此书，感觉还是看不懂，需要用树状图梳理一下到底讲了些什么东西：<br>
+这个博客好像没法子搞树状视图，还得自己另外搞一个。<br>
+https://github.com/freeshift-maker/gitgridea.github.io/blob/Main/images/1-3%E7%AB%A0.PNG<br>
+<img src="./images/1-3%E7%AB%A0.png" alt="" loading="lazy"><br>
+需要研究一下怎么贴图片，目前还没法贴图片。</p>
+<p>😄🎒<br>
+2026-5-14，12号晚上看了1-8章，<br>
+13号看完，14号做了导图，但感觉还是看不懂。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://github.com/freeshift-maker/gitgridea.github.io.git/post/hello-gridea/</id>
+        <link href="https://github.com/freeshift-maker/gitgridea.github.io.git/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
